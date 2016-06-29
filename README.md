@@ -1,2 +1,2 @@
 # sliderpuzzle
-basic slider puzzle in java
+basic slider puzzle in java applet
